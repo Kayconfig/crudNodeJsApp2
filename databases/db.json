@@ -1,0 +1,22 @@
+[
+ {
+  "organization": "SAMPLE TechCorp",
+  "products": [
+   "Programmer",
+   "Ronaldo"
+  ],
+  "marketValue": "60%",
+  "address": "Anambra",
+  "ceo": "bn",
+  "country": "Nigeria",
+  "noOfEmployees": 3,
+  "employees": [
+   "james bond",
+   "chan",
+   "bruce lee"
+  ],
+  "id": "0d64f64e-44a6-4b74-b3a8-bf657c4491a0",
+  "createdAt": "2021-08-12T15:21:33.647Z",
+  "updatedAt": "2021-08-12T15:21:33.647Z"
+ }
+]
